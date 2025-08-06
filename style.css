@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: rgb(203, 235, 181);
+    margin: 0;
+    padding: 0;
+    
+}
+
+.contents {
+    background-color: azure;
+    margin: 0%;
+}
+
+.footer{
+    text-align: center;
+    
+}
